@@ -1,0 +1,18 @@
+.portfolio {
+    margin-top: 5rem;
+    height: 100vh;
+}
+.portfolio h2 {
+    font-size: 3rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+}
+.grid-images img {
+    cursor: pointer;
+    width: 30%;
+    height: auto;
+    border-radius: 0.5rem;
+}
+
+    
