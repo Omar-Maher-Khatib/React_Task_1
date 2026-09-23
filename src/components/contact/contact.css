@@ -1,0 +1,31 @@
+.contact {
+    height: 75vh;
+    width: 100%;
+}
+.contact-title {
+    font-size: 3rem;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin: 0 auto;
+}
+.contact-form input,
+.contact-form textarea {
+    padding: 0.5rem;
+    font-size: 1.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.contact-form button {
+    padding: 1rem 2rem;
+    font-size: 1.5rem;
+    background-color: #1abc9c;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
