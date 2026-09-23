@@ -13,12 +13,16 @@
 }
 .footer-content h2 {
     text-transform: uppercase;
-    font-size: 2rem;
+    font-size: 1.6rem;
     font-weight: bold;
 }
 .footer-content p {
     font-size: 1.5rem;
     line-height: 1.5;
+}
+.footer .bootstrap{
+    color: #1abc9c;
+    text-decoration: underline;
 }
 .footer-bottom  {
     background-color: #1a252f;
